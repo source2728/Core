@@ -1,3 +1,6 @@
 [submodule "Plugins/FairyGUI"]
 	path = Plugins/FairyGUI
 	url = https://github.com/fairygui/FairyGUI-unity.git
+[submodule "Plugins/UnityGameFramework"]
+	path = Plugins/UnityGameFramework
+	url = https://github.com/EllanJiang/UnityGameFramework.git
